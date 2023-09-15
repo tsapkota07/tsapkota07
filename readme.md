@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shreeyan Simkhada</h1>
-<h3 align="center">A passionate frontend developer from USA</h3>
+<h1 align="center">Helllo there✌️, it’s me Tirsan Sapkota</h1>
+<h3 align="center">An aspiring full-stack developer from USA</h3>
 <img align="right" alt="coding" width=150 src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeyansi&label=Profile%20views&color=0e75b6&style=flat" alt="shreeyansi" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Web-Applications**
 
-- 🌱 I’m currently learning **Front-end Developer**
+- 🌱 I’m currently learning **full stack-Developer**
 
 - 👯 I’m looking to collaborate on **Coding**
 
-- 📫 How to reach me **shreeyansimkhada@gmail.com**
+- 📫 How to reach me **tirsanspkt159@gmail.com**
 
 
 
