@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tirsansapkota_7" target="blank"><img src="https://img.shields.io/twitter/follow/tirsansapkota_7?logo=twitter&style=for-the-badge" alt="tirsansapkota_7" /></a> </p>
 
-- 🔭 I’m currently working on **c sharp**
+- 🔭 I’m currently working on **Chat GPT API**
 
 - 🌱 I’m currently learning **C++, React and nodejs**
 
