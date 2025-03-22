@@ -17,7 +17,7 @@
 
 - 📫 You can always email me at: **tirsanspkt159@gmail.com**
 
-- ⚡ Fun fact **I wanna be the best in the world**
+- ⚡ Fun fact **I wanna be one of the greats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
