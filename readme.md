@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/tirsansapkota_7" target="blank"><img src="https://img.shields.io/twitter/follow/tirsansapkota_7?logo=twitter&style=for-the-badge" alt="tirsansapkota_7" /></a> </p>
 
-- 🔭 I’m currently working on **Chat GPT API**
+- 🔭 I’m currently working on **personal habit tracker project**
 
-- 🌱 I’m currently learning **C++, React and nodejs**
+- 🌱 I’m currently learning **python and nodejs**
 
 - 🤝 I’m looking for help with **beginner to fullstack dev**
 
-- 💬 Ask me about **C and vue**
+- 💬 Ask me about **C and C++**
 
 - 📫 You can always email me at: **tirsanspkt159@gmail.com**
 
