@@ -28,5 +28,5 @@ An aspiring full-stack web developer who enjoys learning by building. I'm curren
 
 
 ### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/tirsan-sapkota-13a59928a)
+- 💼 [LinkedIn](https://www.linkedin.com/tirsan-sapkota-13a59928a)
 - Always open to feedback, collaboration, or tech talk!
