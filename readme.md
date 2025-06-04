@@ -1,33 +1,32 @@
-<h1 align="center">Hi, It's me Tirsan Sapkota</h1>
-<h3 align="center">An aspiring fullstack developer from USA</h3>
+### This is Tirsan Sapkota
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tsapkota07&label=Profile%20views&color=0e75b6&style=flat" alt="tsapkota07" /> </p>
+An aspiring full-stack web developer who enjoys learning by building. I'm currently focused on getting stronger with Python along with the foundations of web development like HTML, CSS, and JavaScript.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsapkota07" alt="tsapkota07" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/tirsansapkota_7" target="blank"><img src="https://img.shields.io/twitter/follow/tirsansapkota_7?logo=twitter&style=for-the-badge" alt="tirsansapkota_7" /></a> </p>
+### 🌱 What I'm Currently Learning:
+- Python (core programming + small projects)
+- HTML & CSS fundamentals
+- JavaScript basics
+- Web development workflows
 
-- 🔭 I’m currently working on **personal habit tracker project**
+---
 
-- 🌱 I’m currently learning **python and nodejs**
+### 🛠️ Tools I Use and Explore:
+- **Programming:** Python, JavaScript, C++
+- **Web Dev:** HTML, CSS
+- **Data & ML:** Jupyter Notebook, NumPy, Pandas, Scikit-learn, Matplotlib
+- **Productivity:** VS Code, Notion
 
-- 🤝 I’m looking for help with **beginner to fullstack dev**
+---
 
-- 💬 Ask me about **C and C++**
+### 🎯 My Goals:
+- Build and share simple, clean beginner projects  
+- Learn full-stack development step by step  
+- Explore real-world applications of Python in web and data  
+- Stay consistent and grow my developer portfolio  
 
-- 📫 You can always email me at: **tirsanspkt159@gmail.com**
 
-- ⚡ Fun fact **I wanna be one of the greats**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tirsansapkota_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tirsansapkota_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tirsan-sapkota-13a59928a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tirsan-sapkota-13a59928a" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tsapkota07&show_icons=true&locale=en&layout=compact" alt="tsapkota07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tsapkota07&show_icons=true&locale=en" alt="tsapkota07" /></p>
+### 📫 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/tirsan-sapkota-13a59928a)
+- Always open to feedback, collaboration, or tech talk!
